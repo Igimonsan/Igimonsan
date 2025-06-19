@@ -103,7 +103,7 @@ Support lo bakal bantu gue terus develop project open-source dan bikin konten ya
 ## 📈 Profile Visitors
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?user=Igimonsan&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Igimonsan&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---

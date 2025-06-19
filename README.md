@@ -30,7 +30,7 @@ Selamat datang di GitHub profile saya! Saya seorang developer yang passionate ba
 ## 🌟 Project Unggulan Saya
 
 ### 🤖 WhatsApp Bot - Si Asisten Virtual
-Bot WhatsApp paling mantap yang gue bikin pake Node.js dan library Baileys. Features nya lengkap abis:
+Bot WhatsApp paling mantap yang saya bikin pake Node.js dan library Baileys. Features nya lengkap abis:
 - 📱 Multi-device support (bisa login di banyak device)
 - 🔄 Auto-reply yang smart dan responsif
 - 📊 Analytics pesan buat tracking aktivitas

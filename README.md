@@ -40,11 +40,11 @@ Bot WhatsApp paling mantap yang gue bikin pake Node.js dan library Baileys. Feat
 - 🪸 Memiliki 5 fitur interaktif seperti chat dengan ai dan lain lain
 
 **Tech Stack:** Node.js, Baileys, JavaScript
-
-[Cek Project →](https://github.com/Igimonsan/botnode3) **Project bersifat open source**
-- ⚠Disclaimer!⚠
-*Dilarang menyalahgunakan bot dengan ketentuan apapun*
-*Bijaklah dalam menggunakan bot*
+### Project bersifat open source
+[Cek Project →](https://github.com/Igimonsan/botnode3) 
+- **⚠Disclaimer!⚠**
+- *Dilarang menyalahgunakan bot dengan ketentuan apapun*
+- *Bijaklah dalam menggunakan bot*
 
 ## 📊 GitHub Stats Saya
 

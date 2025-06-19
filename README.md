@@ -1,4 +1,4 @@
-# Halo semua! 👋 Im [Igimonsan]
+# Halo semua! 👋 Im Igimonsan
 
 Selamat datang di GitHub profile saya! Saya seorang developer yang passionate banget sama coding dan suka bikin project-project keren.
 

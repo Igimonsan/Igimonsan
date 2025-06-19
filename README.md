@@ -8,7 +8,7 @@ Selamat datang di GitHub profile saya! Saya seorang developer yang passionate ba
 - 🤖 Bot Developer spesialis automasi WhatsApp
 - 🌱 Always keep learning teknologi baru dan ngikutin trend
 - 🎯 Fokus bikin aplikasi yang efficient dan user-friendly
-- ☕ Powered by kopi dan musik lo-fi
+  
 
 ## 🛠️ Tech Stack yang Saya Kuasai
 
@@ -103,7 +103,7 @@ Support lo bakal bantu gue terus develop project open-source dan bikin konten ya
 ## 📈 Profile Visitors
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?Igimonsan=Igimonsan&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?user=Igimonsan&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---

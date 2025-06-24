@@ -109,7 +109,7 @@ Support lo bakal bantu gue terus develop project open-source dan bikin konten ya
 ---
 
 <div align="center">
-  <i>⭐️ Made with ❤️ by [Igimonsan](https://github.com/Igimonsan)</i>
+  <i>⭐️ Made with ❤️ by Igimonsan (https://github.com/Igimonsan)</i>
   <br>
-  <i>Jangan lupa star repo-repo gue kalau bermanfaat ya!</i>
+  <i>Jangan lupa star repo-repo saya kalau bermanfaat ya!</i>
 </div>

@@ -51,9 +51,9 @@ Bot WhatsApp paling mantap yang saya bikin pake Node.js dan library Baileys. Fea
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Igimonsan&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Igimonsan&theme=radical" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Igimonsan&theme=tokyonight" alt="GitHub Streak" />
+</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igimonsan&layout=compact&theme=radical" alt="Top Languages" />
 </div>

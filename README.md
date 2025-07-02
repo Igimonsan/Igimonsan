@@ -1,6 +1,6 @@
 # Hii👋 Im Igimonsan
 
-Selamat datang di GitHub profile saya! Saya seorang developer yang passionate banget sama coding dan suka bikin project-project keren.
+Hanya iseng
 
 ## 🚀 Tentang Saya
 

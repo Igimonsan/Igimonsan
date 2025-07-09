@@ -4,7 +4,7 @@ Hanya iseng
 
 ## 🚀 Tentang Saya
 
-- 💻 Full Stack Developer yang jagoan di teknologi web modern
+- Orang iseng
 - 🤖 Bot Developer spesialis automasi WhatsApp
 - 🌱 Always keep learning teknologi baru dan ngikutin trend
 - 🎯 Fokus bikin aplikasi yang efficient dan user-friendly
